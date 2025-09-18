@@ -4,8 +4,7 @@ I’m a systems/data engineer in Hawaiʻi building on **Azure + Microsoft Fabric
 Right now I’m focused on **data pipelines, vector search, and Copilot Studio agents**.
 
 ## 🔭 Current
-- Building an AI scoring PoC for admissions questionnaires
-- Shipping a tracing-worksheet SaaS for teachers (React/Expo + Supabase)
+- Building a tracing-worksheet SaaS for teachers (Rust/Tauri)
 - Training for the Honolulu Marathon 🏃
 
 ## 🧰 Toolbox
