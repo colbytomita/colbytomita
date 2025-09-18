@@ -8,7 +8,7 @@ Right now I’m focused on **data pipelines, vector search, and Copilot Studio a
 - Training for the Honolulu Marathon 🏃
 
 ## 🧰 Toolbox
-Azure • Microsoft Fabric • Databricks • Power BI • Power Apps • Python • FastAPI • Node/React • Postgres • Docker • GitHub Actions
+Azure • Microsoft Fabric • Databricks • Power BI • Power Apps • Python • FastAPI • Node/React • Postgres • Docker
 
 ## 🚀 Featured Projects
 - **JobZ** — AI resume/cover-letter + auto-apply agent (FastAPI + React)
