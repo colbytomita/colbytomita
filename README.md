@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Colby 👋</h1>
 
-<!--
-**colbytomita/colbytomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a systems/data engineer in Hawaiʻi building on **Azure + Microsoft Fabric** and shipping AI-powered tools for schools.  
+Right now I’m focused on **data pipelines, vector search, and Copilot Studio agents**.
 
-Here are some ideas to get you started:
+## 🔭 Current
+- Building an AI scoring PoC for admissions questionnaires
+- Shipping a tracing-worksheet SaaS for teachers (React/Expo + Supabase)
+- Training for the Honolulu Marathon 🏃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Toolbox
+Azure • Microsoft Fabric • Databricks • Power BI • Power Apps • Python • FastAPI • Node/React • Postgres • Docker • GitHub Actions
+
+## 🚀 Featured Projects
+- **JobZ** — AI resume/cover-letter + auto-apply agent (FastAPI + React)
+- **KS FAQ Bot** — Copilot Studio + Azure AI Search
+
+## 📈 What I’m learning
+AWS networking (mapping from Azure), embeddings & retrieval patterns, Fabric governance & costs
+
+## 🤝 Connect
+- Email: your@email
+- LinkedIn: your-link
+- Website: your-site
+
+> *“Build small, ship often, learn fast.”*
