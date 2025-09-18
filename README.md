@@ -19,8 +19,8 @@ Azure • Microsoft Fabric • Databricks • Power BI • Power Apps • Python
 AWS networking (mapping from Azure), embeddings & retrieval patterns, Fabric governance & costs
 
 ## 🤝 Connect
-- Email: your@email
-- LinkedIn: your-link
+- Email: tomitacolby@gmail.com
+- LinkedIn: https://www.linkedin.com/in/colbytomita/
 - Website: your-site
 
 > *“Build small, ship often, learn fast.”*
