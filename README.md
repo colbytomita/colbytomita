@@ -18,10 +18,6 @@ Microsoft Fabric • Azure • Power BI • Power Platform • Python • TypeSc
 * [Sukui](https://sukui.org) — bilingual EN/JP platform with a source-grounded streaming chatbot. OpenAI embeddings into Supabase pgvector with IVFFlat, a custom Postgres cosine-similarity retrieval function, Claude API over SSE, salted IP-hash rate limiting. Next.js 14 and TypeScript, solo.
 * [Water Reservoir Forecasting](https://github.com/colbytomita/water_reservoir_ml_predictor) — PLNU capstone. Django and Postgres app serving live predictions over 13 years of data across 16 reservoirs, comparing six regression models by MAE and MAPE in Plotly dashboards.
 
-## 📈 What I'm learning
-
-PL-300 (Power BI), IR evaluation beyond nDCG, Fabric governance and cost control
-
 ## 🤝 Connect
 
 * Email: [tomitacolby@gmail.com](mailto:tomitacolby@gmail.com)
